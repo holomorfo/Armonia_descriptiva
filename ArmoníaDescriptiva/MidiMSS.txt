@@ -1,0 +1,128 @@
+128 Chan 1 Note off Note Number (0-127) Note Velocity (0-127) 
+129 Chan 2 Note off Note Number (0-127) Note Velocity (0-127) 
+130 Chan 3 Note off Note Number (0-127) Note Velocity (0-127) 
+131 Chan 4 Note off Note Number (0-127) Note Velocity (0-127) 
+132 Chan 5 Note off Note Number (0-127) Note Velocity (0-127) 
+133 Chan 6 Note off Note Number (0-127) Note Velocity (0-127) 
+134 Chan 7 Note off Note Number (0-127) Note Velocity (0-127) 
+135 Chan 8 Note off Note Number (0-127) Note Velocity (0-127) 
+136 Chan 9 Note off Note Number (0-127) Note Velocity (0-127) 
+137 Chan 10 Note off Note Number (0-127) Note Velocity (0-127) 
+138 Chan 11 Note off Note Number (0-127) Note Velocity (0-127) 
+139 Chan 12 Note off Note Number (0-127) Note Velocity (0-127) 
+140 Chan 13 Note off Note Number (0-127) Note Velocity (0-127) 
+141 Chan 14 Note off Note Number (0-127) Note Velocity (0-127)
+142 Chan 15 Note off Note Number (0-127) Note Velocity (0-127) 
+143 Chan 16 Note off Note Number (0-127) Note Velocity (0-127) 
+144 Chan 1 Note on Note Number (0-127) Note Velocity (0-127) 
+145 Chan 2 Note on Note Number (0-127) Note Velocity (0-127) 
+146 Chan 3 Note on Note Number (0-127) Note Velocity (0-127) 
+147 Chan 4 Note on Note Number (0-127) Note Velocity (0-127) 
+148 Chan 5 Note on Note Number (0-127) Note Velocity (0-127) 
+149 Chan 6 Note on Note Number (0-127) Note Velocity (0-127) 
+150 Chan 7 Note on Note Number (0-127) Note Velocity (0-127) 
+151 Chan 8 Note on Note Number (0-127) Note Velocity (0-127) 
+152 Chan 9 Note on Note Number (0-127) Note Velocity (0-127) 
+153 Chan 10 Note on Note Number (0-127) Note Velocity (0-127) 
+154 Chan 11 Note on Note Number (0-127) Note Velocity (0-127) 
+155 Chan 12 Note on Note Number (0-127) Note Velocity (0-127) 
+156 Chan 13 Note on Note Number (0-127) Note Velocity (0-127) 
+157 Chan 14 Note on Note Number (0-127) Note Velocity (0-127) 
+158 Chan 15 Note on Note Number (0-127) Note Velocity (0-127) 
+159 Chan 16 Note on Note Number (0-127) Note Velocity (0-127) 
+160 Chan 1 Polyphonic Aftertouch Note Number (0-127) Pressure (0-127) 
+161 Chan 2 Polyphonic Aftertouch Note Number (0-127 Pressure (0-127) 
+162 Chan 3 Polyphonic Aftertouch Note Number (0-127 Pressure (0-127) 
+163 Chan 4 Polyphonic Aftertouch Note Number (0-127 Pressure (0-127) 
+164 Chan 5 Polyphonic Aftertouch Note Number (0-127 Pressure (0-127) 
+165 Chan 6 Polyphonic Aftertouch Note Number (0-127 Pressure (0-127) 
+166 Chan 7 Polyphonic Aftertouch Note Number (0-127 Pressure (0-127) 
+167 Chan 8 Polyphonic Aftertouch Note Number (0-127 Pressure (0-127) 
+168 Chan 9 Polyphonic Aftertouch Note Number (0-127 Pressure (0-127) 
+169 Chan 10 Polyphonic Aftertouch Note Number (0-127 Pressure (0-127) 
+170 Chan 11 Polyphonic Aftertouch Note Number (0-127 Pressure (0-127) 
+171 Chan 12 Polyphonic Aftertouch Note Number (0-127 Pressure (0-127) 
+172 Chan 13 Polyphonic Aftertouch Note Number (0-127 Pressure (0-127) 
+173 Chan 14 Polyphonic Aftertouch Note Number (0-127 Pressure (0-127) 
+174 Chan 15 Polyphonic Aftertouch Note Number (0-127 Pressure (0-127) 
+175 Chan 16 Polyphonic Aftertouch Note Number (0-127 Pressure (0-127) 
+176 Chan 1 Control/Mode Change see Table 3 see Table 3 
+177 Chan 2 Control/Mode Change see Table 3 see Table 3 
+178 Chan 3 Control/Mode Change see Table 3 see Table 3 
+179 Chan 4 Control/Mode Change see Table 3 see Table 3  
+180 Chan 5 Control/Mode Change see Table 3 see Table 3 
+181 Chan 6 Control/Mode Change see Table 3 see Table 3 
+182 Chan 7 Control/Mode Change see Table 3 see Table 3 
+183 Chan 8 Control/Mode Change see Table 3 see Table 3 
+184 Chan 9 Control/Mode Change see Table 3 see Table 3 
+185 Chan 10 Control/Mode Change see Table 3 see Table 3 
+186 Chan 11 Control/Mode Change see Table 3 see Table 3 
+187 Chan 12 Control/Mode Change see Table 3 see Table 3 
+188 Chan 13 Control/Mode Change see Table 3 see Table 3 
+189 Chan 14 Control/Mode Change see Table 3 see Table 3 
+190 Chan 15 Control/Mode Change see Table 3 see Table 3 
+191 Chan 16 Control/Mode Change see Table 3 see Table 3 
+192 Chan 1 Program Change Program # (0-127) none 
+193 Chan 2 Program Change Program # (0-127) none 
+194 Chan 3 Program Change Program # (0-127) none 
+195 Chan 4 Program Change Program # (0-127) none 
+196 Chan 5 Program Change Program # (0-127) none 
+197 Chan 6 Program Change Program # (0-127) none 
+198 Chan 7 Program Change Program # (0-127) none 
+199 Chan 8 Program Change Program # (0-127) none 
+200 Chan 9 Program Change Program # (0-127) none 
+201 Chan 10 Program Change Program # (0-127) none 
+202 Chan 11 Program Change Program # (0-127) none 
+203 Chan 12 Program Change Program # (0-127) none 
+204 Chan 13 Program Change Program # (0-127) none 
+205 Chan 14 Program Change Program # (0-127) none 
+206 Chan 15 Program Change Program # (0-127) none 
+207 Chan 16 Program Change Program # (0-127) none 
+208 Chan 1 Channel Aftertouch Pressure (0-127) none 
+209 Chan 2 Channel Aftertouch Pressure (0-127) none 
+210 Chan 3 Channel Aftertouch Pressure (0-127) none 
+211 Chan 4 Channel Aftertouch Pressure (0-127) none 
+212 Chan 5 Channel Aftertouch Pressure (0-127) none 
+213 Chan 6 Channel Aftertouch Pressure (0-127) none 
+214 Chan 7 Channel Aftertouch Pressure (0-127) none 
+215 Chan 8 Channel Aftertouch Pressure (0-127) none 
+216 Chan 9 Channel Aftertouch Pressure (0-127) none 
+217  Chan 10 Channel Aftertouch Pressure (0-127) none
+218 Chan 11 Channel Aftertouch Pressure (0-127) none 
+219 Chan 12 Channel Aftertouch Pressure (0-127) none 
+220 Chan 13 Channel Aftertouch Pressure (0-127) none 
+221 Chan 14 Channel Aftertouch Pressure (0-127) none 
+222 Chan 15 Channel Aftertouch Pressure (0-127) none 
+223 Chan 16 Channel Aftertouch Pressure (0-127) none 
+224 Chan 1 Pitch Wheel Control Pitch Wheel LSB (0-127) Pitch Wheel MSB (0-127) 
+225 Chan 2 Pitch Wheel Control Pitch Wheel LSB (0-127) Pitch Wheel MSB (0-127) 
+226 Chan 3 Pitch Wheel Control Pitch Wheel LSB (0-127) Pitch Wheel MSB (0-127) 
+227 Chan 4 Pitch Wheel Control Pitch Wheel LSB (0-127) Pitch Wheel MSB (0-127) 
+228 Chan 5 Pitch Wheel Control Pitch Wheel LSB (0-127) Pitch Wheel MSB (0-127) 
+229 Chan 6 Pitch Wheel Control Pitch Wheel LSB (0-127) Pitch Wheel MSB (0-127) 
+230 Chan 7 Pitch Wheel Control Pitch Wheel LSB (0-127) Pitch Wheel MSB (0-127) 
+231 Chan 8 Pitch Wheel Control Pitch Wheel LSB (0-127) Pitch Wheel MSB (0-127) 
+232 Chan 9 Pitch Wheel Control Pitch Wheel LSB (0-127) Pitch Wheel MSB (0-127) 
+233 Chan 10 Pitch Wheel Control Pitch Wheel LSB (0-127) Pitch Wheel MSB (0-127) 
+234 Chan 11 Pitch Wheel Control Pitch Wheel LSB (0-127) Pitch Wheel MSB (0-127) 
+235 Chan 12 Pitch Wheel Control Pitch Wheel LSB (0-127) Pitch Wheel MSB (0-127) 
+236 Chan 13 Pitch Wheel Control Pitch Wheel LSB (0-127) Pitch Wheel MSB (0-127) 
+237 Chan 14 Pitch Wheel Control Pitch Wheel LSB (0-127) Pitch Wheel MSB (0-127) 
+238 Chan 15 Pitch Wheel Control Pitch Wheel LSB (0-127) Pitch Wheel MSB (0-127) 
+239 Chan 16 Pitch Wheel Control Pitch Wheel LSB (0-127) Pitch Wheel MSB (0-127) 
+240 System Exclusive ** ** 
+241 MIDI Time Code Qtr. Frame -see spec- -see spec- 
+242 Song Position Pointer LSB MSB 
+243 Song Select (Song #) (0-127) none 
+244 Undefined (Reserved) --- --- 
+245 Undefined (Reserved) --- --- 
+246 Tune request none none 
+247 End of SysEx (EOX) none none 
+248 Timing clock none none 
+249 Undefined (Reserved) --- --- 
+250 Start none none 
+251 Continue none none 
+252 Stop none none 
+253 Undefined (Reserved) --- --- 
+254 Active Sensing none none 
+255 System Reset none none
