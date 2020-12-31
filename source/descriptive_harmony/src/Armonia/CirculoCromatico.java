@@ -411,67 +411,10 @@ public class CirculoCromatico {
             }
         }
 
-        // Circulo armonías
-//        LinkedList<CoorTon> corList = new LinkedList<CoorTon>();
-//        CoorTon cor = datos.getUniv().gradoArmSecundEscAct(new Armonia(notas));
-//        int esc = cor.getEscala();
-//        int gra = cor.getGrado();
-//        Armonia arm = new Armonia(notas);
-//        int grad = 0;
-//        String etq = "";
-//        for (int k = 0; k < 12; k++) {
-//            grad = datos.getUniv().gradoArmSens(arm, datos.getUniv().getUniversoMayor().get(k));
-//            if (grad > 0) {
-//                etq = datos.getUniv().gradoAcStrSens(arm, datos.getUniv().getUniversoMayor().get(k));
-//                corList.add(new CoorTon(k, 'M', grad));
-//                corList.getLast().setEtq(etq);
-//            } else {
-//                corList.add(new CoorTon(k, 'x', 0));
-//                corList.getLast().setEtq("");
-//            }
-//            //  k = (k + 7) % 12;
-//        }
-
-//        k = (int) (getEscAct().getBaseEsc() + 9) % 12;
-//        for (int k = 0; k < 12; k++) {
-//            int idx = (int) Oper.mod(k, 12);
-//            grad = datos.getUniv().gradoArmSens(arm, datos.getUniv().getUniversoMenor().get(idx));
-//            if (grad > 0) {
-//                etq = datos.getUniv().gradoAcStrSens(arm, datos.getUniv().getUniversoMenor().get(idx));
-//                corList.add(new CoorTon(idx, 'm', grad));
-//                corList.getLast().setEtq(etq);
-//            } else {
-//                corList.add(new CoorTon(idx, 'x', 0));
-//                corList.getLast().setEtq("");
-//            }
-//        }
-
-//        String eq = " ";
-//        for (int i = 0; i < 12; i++) {
-//            significadosMayBt.get(i).soltar();
-//            eq = "   " + Oper.num2nota12(corList.get(i).getEscala(), 'b');
-//            significadosMayBt.get(i).setEtiqueta(eq + "\n" + (corList.get(i).getEtq()));
-//            significadosMayBt.get(i).setAnchoLargo(aCirculitos);
-//            if (!corList.get(i).getEtq().equals("")) {
-//                significadosMayBt.get(i).presionar();
-//            }
-//        }
-//
-//        for (int i = 12; i < 24; i++) {
-//            significadosMenBt.get(i % 12).soltar();
-//            eq = "   " + Oper.num2nota12(corList.get(i).getEscala(), 's');
-////            significadosMenBt.get(i % 12).setEtiqueta(eq + "\n" + (corList.get(i).getEtq()));
-//            significadosMenBt.get(i % 12).setEtiqueta("" + "\n" + (corList.get(i).getEtq()));
-//            significadosMenBt.get(i % 12).setAnchoLargo(aCirculitos);
-//            if (!corList.get(i).getEtq().equals("")) {
-//                significadosMenBt.get(i % 12).presionar();
-//            }
-//        }
 
         ///////////////////
         // Circulo grande Tonalidades 
         p.noFill();
-//        p.ellipse(px, py, radioMen * 2, radioMen * 2);
         p.fill(0);
         // Circulos pequenios
         for (int i = 0; i < 12; i++) {
@@ -485,24 +428,6 @@ public class CirculoCromatico {
 //        p.ellipse(px, py, radioMay * 2, radioMay * 2);
         p.fill(0);
 
-
-//        // Circulos pequenios
-//        for (int i = 0; i < 12; i++) {
-//            x = px + radioMay * p.cos(i * ang + p.PI / 2);
-//            y = py - radioMay * p.sin(i * ang + p.PI / 2);
-//
-//            p.fill(255);// Fondo blanco
-//            significadosMayBt.get(i).setPosXY((int) x, (int) y);
-////            p.ellipse(x, y, aCiculitos, aCiculitos);
-//        }
-//
-//
-//        for (int i = 0; i < significadosMenBt.size(); i++) {
-//            // son los botoncitos que me dicen la interpretacion
-//            // creo que deberian estar juntos con el ciruclo cromatico
-//            significadosMayBt.get(i).paint();
-//            significadosMenBt.get(i).paint();
-//        }
 
 
         String str = datos.getUniv().gradoAcordeRomSecEscAct(elAcorde);
